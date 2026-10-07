@@ -1,0 +1,6 @@
+[package]
+name = "fcv-bar"
+version = "0.0.1"
+
+[dependencies]
+fcv-foo = { version = "0.0.1", path = "../foo" }
